@@ -3,6 +3,10 @@
 	margin: 0;
 }
 
+body {
+    padding-top: 3%;
+  }
+
 p{
 	font-size: 100%;
 }
@@ -12,6 +16,9 @@ p{
 
 }
 
+.navbar{
+	opacity: .65;
+}
 .parallax{
 	background-position: center;
 	background-repeat: no-repeat;
