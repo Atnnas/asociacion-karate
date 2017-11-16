@@ -7,6 +7,10 @@ p{
 	font-size: 100%;
 }
 
+@media screen and (max-width: 500px) {
+    /*Css for mobile*/
+}
+
 .parallax{
 	background-position: center;
 	background-repeat: no-repeat;
@@ -16,9 +20,10 @@ p{
 	width: 100%;
 }
 
+
 #pagina-inicio{
 	background-image: url(../img/img0.jpg);
-	height: 800px;
+	height: 1200px;
 	padding-top: 5%;
 	padding-left: 35%;
 	padding-right: 30%;
